@@ -1,0 +1,12 @@
+git inti 
+git add filename 
+git status 
+git commit -m "msg"
+git restore filename
+git rm --cached filename (staged to untracked)
+history (to print all the used cmds)
+git remote add origin git@github.com:Shyam-cloud-25/github-for-devops-workshop.git
+git remote -v
+ git remote set-url origin https://token pat@github.com/Shyam-cloud-25/github-for-devops-workshop.git
+ git push origin master
+ git clone https://github.com/Shyam-cloud-25/github-for-devops-workshop.git
