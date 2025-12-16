@@ -10,3 +10,6 @@ git remote -v
  git remote set-url origin https://token pat@github.com/Shyam-cloud-25/github-for-devops-workshop.git
  git push origin master
  git clone https://github.com/Shyam-cloud-25/github-for-devops-workshop.git
+
+this are some new changes made from github
+
